@@ -1,0 +1,2 @@
+model,num_features,features_used,test_accuracy,test_f1,test_auc
+LogReg_top_ANOVA_features,8,"Lisch Nodules, Optic Glioma, Café au lait (CLS), Skeletal Dysplasia, Hypertension, Tumour Case, Hamartoma, Plexiform Neurofibromins",0.5833333333333334,0.4186046511627907,0.5976430976430976

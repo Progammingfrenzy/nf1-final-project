@@ -1,0 +1,19 @@
+Project: NF1 Familial vs Sporadic Classification
+
+Dataset source:
+UCI Machine Learning Repository
+Neurofibromatosis Type 1; Clinical Symptoms of Familial and Sporadic Cases
+
+Dataset link:
+https://archive.ics.uci.edu/dataset/1162/neurofibromatosis%2Btype%2B1%2Bclinical%2Bsymptoms%2Bof%2Bfamilial%2Band%2Bsporadic%2Bcases
+
+Related source article:
+Sharafi P, Arslan H, Ersoy Evans S, Varan A, Ayter S.
+A machine learning approach for predicting familial and sporadic disease cases based on clinical symptoms: introduction of a new dataset.
+Turk Hijyen ve Deneysel Biyoloji Dergisi, 2025; 82(1): 99-106.
+DOI: 10.5505/TurkHijyen.2025.06337
+
+Notes:
+- The dataset used in this project is associated with the NF1 study above.
+- The working dataset used in my analysis was a cleaned version of the UCI dataset.
+- Code, outputs, and documentation are included in the submitted zip folder.
